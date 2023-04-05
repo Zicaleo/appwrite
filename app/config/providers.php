@@ -311,6 +311,16 @@ return [ // Ordered by ABC.
         'beta' => false,
         'mock' => false,
     ],
+    'wechat' => [
+        'name' => 'WeChat',
+        'developers' => 'https://open.weixin.qq.com/',
+        'icon' => 'icon-wechat',
+        'enabled' => true,
+        'sandbox' => false,
+        'form' => false,
+        'beta' => false,
+        'mock' => false,
+    ],
     'wordpress' => [
         'name' => 'WordPress',
         'developers' => 'https://developer.wordpress.com/docs/oauth2/',
